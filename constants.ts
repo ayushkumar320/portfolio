@@ -73,7 +73,7 @@ export const PROJECTS: IProject[] = [
     description:
       "Digitized library operations for community learning centers with inventory tracking, lending workflows, and student analytics.",
     gradient: ["#0f172a", "#1e293b"],
-    url: "https://github.com/ayushkumar320/naiudaan",
+    url: "https://github.com/ayushkumar320/Project-Beta-Backend-Library-Management-System-",
     tech: ["react", "typescript", "tailwind"],
   },
   {
