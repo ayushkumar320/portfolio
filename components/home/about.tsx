@@ -74,7 +74,6 @@ const AboutSection = () => {
         Currently exploring AI/ML workflows, open-source collaboration, and
         thoughtful developer experience improvements.
       </span>
-      {/* Add Ayush's extended bio later */}
     </h1>
   );
 

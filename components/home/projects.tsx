@@ -163,7 +163,6 @@ const ProjectsSection = ({isDesktop}: IDesktop) => {
           <p className="font-medium text-white">
             Projects coming soon — stay tuned!
           </p>
-          {/* Add Ayush's project details later */}
         </div>
       )}
     </section>
